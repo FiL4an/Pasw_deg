@@ -1,0 +1,2 @@
+# Pasw_deg
+GENERANOR DEGRADATOR
