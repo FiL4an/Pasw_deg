@@ -22,3 +22,8 @@
   ##### Для вайба
 - [вайб](https://www.youtube.com/watch?v=Gre8xwXLT3w&list=PL_JUGDUs2Thk6ErqJurcIMV04NlDQs-wm&index=47&ab_channel=Vilenchik)
 
+---
+
+###### презентация
+
+- ![презентация](./презентация/Predstavlyaem-Password-Generator-Vash-Nadezhnyj-Zashitnik-Parolej.pptx)
