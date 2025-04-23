@@ -12,3 +12,7 @@
 
 - ![ФОН](./Videos/фон%20для%20генератора.mp4)
 - ![В_Загрузку](./Videos/в_загрузку_генератора_деградатора.mp4)
+
+### Ознокмелние с git 
+
+- ![ролик](https://www.youtube.com/watch?v=VJm_AjiTEEc&t=1788s&ab_channel=VladMishustin)
