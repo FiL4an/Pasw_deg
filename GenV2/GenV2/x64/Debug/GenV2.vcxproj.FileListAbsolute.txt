@@ -1,0 +1,3 @@
+F:\GenV2\GenV2\x64\Debug\GenV2.vcxproj.AssemblyReference.cache
+F:\GenV2\GenV2\x64\Debug\GenV2.okno1.resources
+F:\GenV2\GenV2\x64\Debug\GenV2.vcxproj.GenerateResource.cache
