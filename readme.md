@@ -15,4 +15,4 @@
 
 ### Ознокмелние с git 
 
-- ![ролик](https://www.youtube.com/watch?v=VJm_AjiTEEc&t=1788s&ab_channel=VladMishustin)
+- [ролик](https://www.youtube.com/watch?v=VJm_AjiTEEc&t=1788s&ab_channel=VladMishustin)
