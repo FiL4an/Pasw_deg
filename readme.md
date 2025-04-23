@@ -16,3 +16,6 @@
 ### Ознокмелние с git 
 
 - [ролик](https://www.youtube.com/watch?v=VJm_AjiTEEc&t=1788s&ab_channel=VladMishustin)
+
+  #### Для вайба
+-[вайб](https://www.youtube.com/watch?v=Gre8xwXLT3w&list=PL_JUGDUs2Thk6ErqJurcIMV04NlDQs-wm&index=47&ab_channel=Vilenchik)
